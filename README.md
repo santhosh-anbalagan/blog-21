@@ -1,5 +1,8 @@
 # ✨ Fjord Nextjs Theme ✨
 
+## Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7bf5440-4bb0-42a6-8fc0-8b58f6898b65/deploy-status)](https://app.netlify.com/sites/zooz-blog/deploys)
+
 This is Stackbit's "Fjord" theme built with [Next.js](https://nextjs.org/) and
 powered by content stored in files.
 
